@@ -1,0 +1,26 @@
+* {
+    font-family: fantasy;
+}
+.tianqi {
+    background: #6f5a7e;
+    text-align: center;
+}
+.weather {
+    font-size: 50px;
+    margin: 0;
+    font-weight: bold;
+    color: #ffae8f;
+}
+.temp {
+    font-size: 50px;
+    margin: 0;
+    color: #ff677d;
+}
+.feels {
+    font-size:50px;
+    margin: 0;
+    color: #cd6684;
+}
+.icon {
+    height: 100px;
+}
