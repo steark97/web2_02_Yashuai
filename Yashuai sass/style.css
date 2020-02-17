@@ -1,0 +1,57 @@
+div p {
+  font-family: fantasy;
+}
+
+.tianqi {
+  background: linear-gradient(#6f5a7e, rgba(143, 27, 85, 0.842));
+  text-align: center;
+  height: 600px;
+  width: 400px;
+  border-radius: 25px;
+  border-color: #aa679d;
+  margin: 0 auto;
+}
+
+.weather {
+  font-size: 50px;
+  margin: 0;
+  font-weight: bold;
+  color: #ffae8f;
+}
+
+.temp {
+  font-size: 50px;
+  margin: 0;
+  color: #ff677d;
+}
+
+.feels {
+  font-size: 50px;
+  margin: 0;
+  color: #cd6684;
+}
+
+.position {
+  font-size: 100px;
+  margin: 0;
+  font-weight: bold;
+  color: #ff677d;
+}
+
+.icon {
+  height: 100px;
+  margin-left: 5px;
+}
+
+.hengxian-size {
+  height: 20px;
+}
+
+footer {
+  width: 400px;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-color: #ff677d;
+}
+
+/*# sourceMappingURL=style.css.map */

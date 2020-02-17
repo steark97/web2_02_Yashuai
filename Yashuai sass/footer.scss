@@ -1,0 +1,14 @@
+$taohong: #ff677d;
+$list: 20px;
+@each $size in $list {
+    .hengxian-#{size} {
+        height: $size;
+    }
+    
+}
+footer {
+    width:400px;
+    border-radius: 25px;
+    margin: 0 auto;
+    background-color: $taohong;
+}

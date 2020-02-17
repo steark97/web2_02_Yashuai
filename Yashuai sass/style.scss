@@ -1,0 +1,45 @@
+$taohong: #ff677d;
+
+div {
+    p {
+        font-family: fantasy;
+    }
+}
+
+.tianqi {
+    background: linear-gradient(#6f5a7e,rgba(143, 27, 85, 0.842));
+    text-align: center;
+    height: 600px;
+    width: 400px;
+    border-radius: 25px;
+    border-color: #aa679d;
+    margin: 0 auto;
+}
+.weather {
+    font-size: 50px;
+    margin: 0;
+    font-weight: bold;
+    color: #ffae8f;
+}
+.temp {
+    font-size: 50px;
+    margin: 0;
+    color: $taohong;
+}
+.feels {
+    font-size:50px;
+    margin: 0;
+    color: #cd6684;
+}
+.position {
+    font-size: 100px;
+    margin: 0;
+    font-weight: bold;
+    color:$taohong;
+}
+.icon {
+    height: 100px;
+    margin-left: 5px;
+}
+
+@import 'footer.scss';
