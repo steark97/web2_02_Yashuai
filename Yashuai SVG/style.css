@@ -1,0 +1,15 @@
+circle {
+  fill: #F0E5DE;
+}
+text {
+  font-family: "Open Sans";
+  text-anchor: middle;
+  color: #7C7877;
+  font-size: 14px;
+}
+svg {
+  background-color: #ABD0CE;
+  display: block;
+  margin: auto;
+  border-radius: 25px;
+}
